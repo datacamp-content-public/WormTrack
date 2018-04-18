@@ -1,6 +1,8 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
 ## Sample exercise
@@ -10,30 +12,46 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
-key: 863b24b0ec
+key: 16551844b0
 ```
 
+This is the first assignment
 
 `@instructions`
+ins
 
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: undefined
+
+key: cb63f2a0e1
 ```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
+
+
+
+
+
+
